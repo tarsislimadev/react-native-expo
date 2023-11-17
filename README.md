@@ -8,6 +8,28 @@ Project description
 
 [Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/bkKAvQB2)
 
+## how to install
+
+```
+apk add sudo git
+```
+
+```
+npm i -g eas-cli
+
+npm i --force
+```
+
+## how to use
+
+```
+eas init --id 00000000-0000-0000-0000-000000000000
+
+eas build
+
+eas submit --platform android 
+```
+
 ## license
 
 [MIT](./LICENSE)
