@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "react-native-expo-405405",
+  "private_key_id": "dfe8e36234d6c018008a8c8b94951109c53610d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCfA7M3Ecq/ea3S\nWzMHQ/VExIcBUcRYPkhCb2yoVRS/a+L8ZHh8muOsIWg4iYwJy48zMM0UVn83pPEF\nIt7GymDY9kPyqpXeCgqBbnOl6DN4CT1VX+c3sSk5szkTtec7h9GJX0nT0KYGuetT\nWwD4kJi7tMuPSa+AHvVuNe3UqJnW2NZ7dNKCySwRDcjTAibAdoRYNj1Ns3LarA/b\nWcFravYq6+cPtyCpM/scNQU1JJnlX4hqqCsC8egx/hpfx02ad7+U/2ocLCVlIeRm\nFChHQC6pc9GpBHCynx9EWaohrnPGhuasN0DznNVTGkJVSEXx7ka4Ikmgf+6pOg28\ncGoYN7A1AgMBAAECgf8GhaBUIeau886tUhBFvAPTTjw7UZ87/1H3Z5qNTPAM6d/l\nejl24uNzq+saZonX3QGCl/3RV7rgDWPVUhjRDnvqai9fRJ/g+4hyxpT3uQ5jXf2m\nAsj4/8sxEqjEpjFVv7xYZhAhH+2vWPDN+m2PxF5/VGsE9YC9QIfQfWXD0yZ8KVgI\ncpXLnCqPRJAFFv6CyL92kRHttlz3AX+Djg4duGejBa73kuvYE2hwa2z8kBTdtkg9\nrXkjy+p8iDG4dmVSTrzUG3Ei8oHQfqMMPKt+xbU0X5nHT87zXIGZySPZJ8jZb2tj\nntzWbLvfjXR19+xvqIYO+MAaWB//1LajaauLAU8CgYEA2mGbM8OYiubmHpak3OPB\nxGDLp6tcK/CyELXRdoKLqjZjOphG+cJPTE68AC8Hs6eRvyQvKx9btW+jzV0KHhJm\nfsnGewRDiR6qVy/ovWBAfBucRZXexMExJxO6wRDj6614plXhiF+7cKNcO3pQZJRg\nDZ9OlWje4U1Zhfs/DcME5y8CgYEAumgTsTRWIx+SZkTW2bFZG3XXfV6A7UKA/qpV\n2Qa6Nw6xoImLQUh9A8V8UHQbPU8HH8FbZd0CjWIY8YUDffDS2/OT3PYJrkZsjC0N\nupMTINUA3bPCBxHcvCmAqNjTe8qNyrbh3itZji7amNClXZiDAwy/+4qnr6YYS41a\nml0eBdsCgYB+nBBLVp9eCLhqC5TRrApvPF9WencZ0paqMX+bYdxvdtDY6+habVlk\nOFGvGZUxh3lshCIEsk2NR4iES+jNvoVGBN3Z/ILbQLgpjFE3WlKIoclcXqOlFwzU\nRxADVzONNCm65he35SjbCRs0MJnjdlKqEy6QWRi/LwU0NJI9/E8faQKBgEaocN54\n4jXKH+pYKcC28vnvv1EsY16MGO1vj78GR8va7AXYXUrPuWOWljrA6BpjPGYTGxwP\nnIoPJzlVnC8+/A6X0/Kr6JuA4mB4K34Phe6qDvv6yY94e91vNe/K0M9ZxkmS7ScT\n84xrwjyuyiAiUXb0fElTE6EHKqpo2HEu3tSFAoGBAK8voxz/ug1kkFBmhv79H/VL\nRwTRqTdUpuSQyEqbCvY9ZoUjvZa9D00474cL7YUtRoe6cFQ4w72dPziHDHIzcU3F\nVhC6ADgKB2h4OeFcNoFh0n5xbVkIwXuIEMsvh2vIxuCtjDQNwZnp1ULwv2Oe6BF+\nzTsf50r+tCBRpbRUZces\n-----END PRIVATE KEY-----\n",
+  "client_email": "react-native-expo@react-native-expo-405405.iam.gserviceaccount.com",
+  "client_id": "102770980060456247518",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/react-native-expo%40react-native-expo-405405.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
